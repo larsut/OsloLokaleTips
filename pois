@@ -1,0 +1,1340 @@
+{ "type": "FeatureCollection",
+  "features": [
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72868,
+          59.94045
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Dana Bakeri",
+        "openingHours": [
+          "07:00-18:30",
+          "07:00-18:30",
+          "07:00-18:30",
+          "07:00-18:30",
+          "07:00-18:30",
+          "09:00-18:30",
+          "09:00-18:30"
+        ],
+        "description": "Turkish delicacies serving delicious börek.",
+        "address": "Niels Henrik Abels vei",
+        "image":
+        "https://fastly.4sqi.net/img/general/600x600/65562299_kd3qTUpPi51s7Ch75c6L2MtdcGpAmJ6MOJ-qOQzHxe0.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7257991,
+          59.9236343
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Troys Burger",
+        "openingHours": [
+          "14:00-21:00",
+          "14:00-21:00",
+          "14:00-22:00",
+          "14:00-22:00",
+          "12:00-23:00",
+          "12:00-23:00",
+          "12:00-22:00"
+        ],
+        "description": "Juicy burgers! We recommend the fries.",
+        "address": "Hedgehaugsveien 36",
+        "image":
+        "https://img.restaurantguru.com/r9b2-Troys-Burger-Majorstuen-exterior.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7356814,
+          59.9122345
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "DimSum",
+        "openingHours": [
+          "Closed",
+          "16:00-22:00",
+          "16:00-22:00",
+          "16:00-22:00",
+          "16:00-22:00",
+          "16:00-22:00",
+          "14:00-21:00"
+        ],
+        "description": "Authentic chinese dim sum. A range of different dumplings and other small dishes, perfect for sharing!",
+        "address": "Tordenskiolds gate 8",
+        "image":
+        "https://www.aftenposten.no/images/ec35a605-8082-4b1b-be81-1ac76a8a1f41?fit=crop&h=1152&q=80&w=2048"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7153313,
+          59.9165279
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Grills Ville",
+        "openingHours": [
+          "10:00-21:45",
+          "10:00-21:45",
+          "10:00-21:45",
+          "10:00-21:45",
+          "10:00-04:00",
+          "11:00-04:00",
+          "11:00-21:45"
+        ],
+        "description": "A nice place to buy a sandwich for lunch!",
+        "address": "Frognerveien 9C",
+        "image":
+        "https://www.aftenposten.no/images/bf1995ac-ac1f-45ae-889b-7489c2165d81?fit=crop&h=576&q=80&w=1024"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7415405,
+          59.9189991
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Oslo Tran Sushi",
+        "openingHours": [
+          "11:00-21:00",
+          "11:00-21:00",
+          "11:00-21:00",
+          "11:00-21:00",
+          "11:00-21:00",
+          "13:00-21:00",
+          "13:00-21:00"
+        ],
+        "description": "Former Michelin awarded chef’s new sushi restaurant.",
+        "address": "Nordahl Bruns gate 13",
+        "image":
+        "https://images.deliveryhero.io/image/fd-no/LH/n6hq-hero.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6773784,
+          59.9775445
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Frognerseteren Restaurant",
+        "openingHours": [
+          "11:00-22:00",
+          "11:00-22:00",
+          "11:00-22:00",
+          "11:00-22:00",
+          "11:00-22:00",
+          "13:00-22:00",
+          "13:00-21:00"
+        ],
+        "description": "Scenic, 19th-century dining venue serving Norwegian cuisine in a cafe, restaurant, private rooms and a nice view over Oslo.",
+        "address": "Holmenkollveien 200",
+        "image":
+        "https://tellusdmsmedia.newmindmedia.com/wsimgs/7C24CC0CAE4EDC6F4ADBF545A38105AE0370D23E.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7517494,
+          59.9222525
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Mathallen Oslo",
+        "openingHours": [
+          "10:00-20:00",
+          "10:00-20:00",
+          "10:00-20:00",
+          "10:00-20:00",
+          "10:00-20:00",
+          "10:00-20:00",
+          "11:00-18:00"
+        ],
+        "description": "Indoor food market with cafes, eateries & specialty shops featuring smalls-acle Norwegian producers.",
+        "address": "Vulkan 5",
+        "image":
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/1a/3d/a7/mathallen-oslo.jpg?w=1200&h=-1&s=1"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7508342,
+          59.9158492
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Oslo Street Food",
+        "openingHours": [
+          "11:00-01:00",
+          "11:00-01:00",
+          "11:00-01:00",
+          "11:00-03:00",
+          "11:00-03:00",
+          "11:00-03:00",
+          "12:00-22:00"
+        ],
+        "description": "Hip food court featuring international eateries, bars & DJs, plus indoor & outdoor seating.",
+        "address": "Torggata 16",
+        "image":
+        "https://images.squarespace-cdn.com/content/v1/6038204a6bf989551704f5c2/006798dc-b0d7-4ff0-9cc4-b85ebc9392c0/DSC_4488.jpg?format=2500w"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7485602,
+          59.9156351
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Illegal Burger",
+        "openingHours": [
+          "16:00-21:00",
+          "16:00-21:00",
+          "16:00-21:00",
+          "16:00-21:00",
+          "16:00-22:00",
+          "16:00-22:00",
+          "16:00-21:00"
+        ],
+        "description": "Small burger venue serving succulent burgers and fries.",
+        "address": "Møllergata 23",
+        "image":
+        "https://menyer.no/wp-content/uploads/2018/12/illegal-burger-lokka.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7872656,
+          59.9083133
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Pizzeria La Pietra",
+        "openingHours": [
+          "15:00-22:00",
+          "15:00-22:00",
+          "15:00-22:00",
+          "15:00-22:00",
+          "15:00-22:00",
+          "14:00-22:00",
+          "14:00-22:00"
+        ],
+        "description": "Great range of italian styled pizza. We especially recommend the Picasso.",
+        "address": "Ingeborgs gate 4",
+        "image":
+        "https://lh3.googleusercontent.com/p/AF1QipN9M9VVWrq7-uLkNdxQYCuAaq_4LM9sOQQ6QB9w=w768-h768-n-o-v1"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.751478,
+          59.952465
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Tåsen Cafebar",
+        "openingHours": [
+          "09:00-22:00",
+          "09:00-22:00",
+          "09:00-22:00",
+          "09:00-22:00",
+          "09:00-22:00",
+          "10:00-21:00",
+          "11:00-21:00"
+        ],
+        "description": "By many locals recognized as Oslo’s best kebab. You should try out their chicken pita!",
+        "address": "Kaj Munks vei 41",
+        "image":
+        "https://10619-2.s.cdn12.com/rests/original/504_502362278.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.754979,
+          59.918810
+        ]
+      },
+      "properties": {
+        "category": "restaurant",
+        "name": "Funky Fresh Foods",
+        "openingHours": [
+          "11:00-18:30",
+          "11:00-18:30",
+          "11:00-18:30",
+          "11:00-18:30",
+          "11:00-20:00",
+          "11:00-20:00",
+          "11:00-18:30"
+        ],
+        "description": "Mind boggling green dishes at nice prices in green surroundings.",
+        "address": "Hausmanns gate 16",
+        "image":
+        "https://tellusdmsmedia.newmindmedia.com/wsimgs/7E55886BE65559A57A0980A32924AEC706A23C54.jpg"
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7289128,
+          59.9746805
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Sognsvann",
+        "openingHours": ["24/7"],
+        "buoyId": "1-73595",
+        "description": "A calm lake by the forests of Nordmarka. Perfect for grilling, jogging, swimming or if you need a getaway from the city.",
+        "address": "Sognsveien 235",
+        "image":
+        "https://cheapskates.guide/oslo/see-do/sognsvann-lake/sognsvann.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7289128,
+          59.9746805
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "IFI-dammen",
+        "address": "Gaustadalléen 23B",
+        "openingHours": ["24/7"],
+        "buoyId": "none",
+        "description": "The greatest swimming spot at the University of Oslo",
+        "image":
+        "https://assets.isu.pub/document-structure/201003155513-f1b2699ba096b20b27774efc1d3c4ed9/v1/35c54f37c47e5733a81bffa7566ad140.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.721726,
+          59.9064122
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Tjuvholmen",
+        "address": "Kavringen brygge 4",
+        "openingHours": [
+          "24/7"
+        ],
+        "buoyId": "1-131072%2C1-2254113",
+        "description": "Easy access, multiple diving spots. Surrounded by high end apartments and restaurants.",
+        "image":
+        "https://images.squarespace-cdn.com/content/v1/587642149f7456eeebf28e13/1623316903107-J675HZDPY7N1FV0RBZ2T/Tjuvholmen-l.-07.27.21.jpg?format=1000w"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6744417,
+          59.8948567
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Huk",
+        "address": "Schiøtts vei 8",
+        "openingHours": [
+          "24/7"
+        ],
+        "buoyId": "10-990121%2C0-10055%2C1-104222",
+        "description": "Sandy beaches, razor sharp cliffs, deep blue seas. Ice cream bar, nature and other facilities nearby.",
+        "image":
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Huk%2C_Oslo_-_bay_with_beach.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6640225,
+          59.905681
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Panteren",
+        "address": "Chr. Frederiks vei 24",
+        "openingHours": [
+          "24/7"
+        ],
+        "buoyId": "132%2C9%2C1-72964%2C1-72925",
+        "description": "A well known cliff, thirteen meters high. This is for the more daring people.",
+        "image":
+        "https://ddjh0q34m0xak.cloudfront.net/mmo/images/2015/8/bf519426-2f0f-4541-b5e1-cc54052ecd33.jpg?w=650"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7528394,
+          59.9032117
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Sørenga",
+        "address": "Sørengkaia 71",
+        "openingHours": [
+          "24/7"
+        ],
+        "buoyId": "1-2254527%2C100%2C2-11817651",
+        "description": "Central bathing spots with nice views of the Oslo-fjords. Different restaurants and parks in the area.",
+        "image":
+        "https://tellusdmsmedia.newmindmedia.com/wsimgs/S_renga_3_935927879.jpg[ProductImage][4D037D0DBFC52DD05D8EFE6A4EB0]"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7292321,
+          59.894711
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Hovedøya",
+        "address": "Hovedøya",
+        "openingHours": ["24/7"],
+        "buoyId": "1-73946",
+        "description": "One of many islands in the fjords of Oslo. Several secret bathing spots where you can feel the breeze of the ocean. There is also a restaurant serving local seafood.",
+        "image":
+        "https://media.snl.no/media/150615/article_topimage_7460282060_17a37de175_o.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7816754,
+          59.9675467
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Frysja",
+        "address": "Kjelsåsveien 145",
+        "openingHours": [
+          "24/7"
+        ],
+        "buoyId": "0-10022",
+        "description": "Take a refreshing bath in the city rivers surrounded by nature. A nice place to take a break for grilling or swimming.",
+        "image":
+        "https://img2.oastatic.com/img2/56039113/max/t.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7531318,
+          59.9046822
+        ]
+      },
+      "properties": {
+        "category": "swimming",
+        "name": "Oslo Badstuforening",
+        "address": "Sukkerbiten",
+        "openingHours": [
+          "07:00-22:00",
+          "07:00-22:00",
+          "07:00-22:00",
+          "07:00-22:00",
+          "07:00-22:00",
+          "07:00-22:00",
+          "07:00-22:00"
+        ],
+        "buoyId": "1-2254527%2C100%2C2-11817651",
+        "description": "Wooden floating saunas with unique design, facing the green islands outside Oslo. Heat up and dive into the fjord.",
+        "image":
+        "https://media-cdn.tripadvisor.com/media/photo-p/1a/fe/5e/1f/third-sauna-anda-has.jpg"
+
+      }
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7508342,
+          59.9158492
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Oslo Bar & Bowling",
+        "address": "Torggata 16",
+        "openingHours": [
+          "12:00–00:00",
+          "12:00–00:00",
+          "12:00–00:00",
+          "12:00–00:00",
+          "12:00–02:00",
+          "12:00–02:00",
+          "12:00–00:00"
+        ],
+        "description": "Come here if you would fancy a drink while bowling or beating your friend in a round of shuffleboard.",
+        "image":
+        "https://tellusdmsmedia.newmindmedia.com/wsimgs/oslo-bar-og-bowling-2_1575075143.jpg[ProductImage]"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7104414,
+          59.9296035
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Colosseum Kino",
+        "address": "Fridtjof Nansens vei 6",
+        "openingHours": [
+          "11:30-21:30",
+          "11:30-21:30",
+          "11:30-21:30",
+          "11:30-21:30",
+          "11:30-21:30",
+          "11:30-21:30",
+          "11:30-21:30"
+        ],
+        "description": "A historical cinema built with an enormous dome. You won't get a better movie experience anywhere else in the North.",
+        "image":
+        "https://tellusdmsmedia.newmindmedia.com/wsimgs/F6D28DBE2C76714E512EDE3A6B0CBFD1985987D0.jpg[ProductImage]"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7362486,
+          59.907803
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Akershus Festning",
+        "address": "Myntgata 9",
+        "openingHours": [
+          "06:00-21:00",
+          "06:00-21:00",
+          "06:00-21:00",
+          "06:00-21:00",
+          "06:00-21:00",
+          "06:00-21:00",
+          "06:00-21:00"
+        ],
+        "description": "Beautiful fortress from the 13th century. A nice place to read a book or drink a cup of coffee with views of the Oslofjord.",
+        "image":
+        "https://a.cdn-hotels.com/gdcs/production78/d75/f4ad4394-88ba-4cbc-9a77-1ca67eb30bce.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7508882,
+          59.9162293
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "The Good Knight",
+        "address": "Badstugata 9",
+        "openingHours": [
+          "Stengt",
+          "15:00–00:30",
+          "15:00–00:30",
+          "15:00–00:30",
+          "15:00–03:30",
+          "13:00–03:30",
+          "Stengt"
+        ],
+        "description": "This is the bar for the chess-enthusiasts. Clean wooden chess boards with a range of different beers and drinks.",
+        "image":
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/60/1b/f0/getlstd-property-photo.jpg?w=1200&h=-1&s=1"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6684528,
+          59.9637222
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Holmenkollbakken",
+        "address": "Kongeveien 5",
+        "openingHours": [
+          "10:00–16:00",
+          "10:00–16:00",
+          "10:00–16:00",
+          "10:00–16:00",
+          "10:00–16:00",
+          "10:00–16:00",
+          "10:00–16:00"
+        ],
+        "description": "One of the world's most known ski jumps. Come here if you want to grasp a beautiful view over the whole city. Also possible to experience a zip-line trip from the top.",
+        "image":
+        "https://arkitektur-n.no/transforms/uploads/images/2011/nr-3-2011/19655/JDS_0527_Marco-Boella-for-JDS_f711dd0e76730afe3f1c1856fa215650.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7469119,
+          59.9125328
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Oslo Domkirke",
+        "address": "Karl Johans gate 11",
+        "openingHours": [
+          "10:00-16:00",
+          "10:00-16:00",
+          "10:00-16:00",
+          "10:00-16:00",
+          "16:00-23:30",
+          "10:00-16:00",
+          "10:00-16:00"
+        ],
+        "description": "Built in the 17th century as the national church and is the main church for the Oslo diocese. Open in the middle of the city and offers eye-pleasing decorations.",
+        "image":
+        "https://media.snl.no/media/145336/standard_compressed_oslo-domkirke_4273.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739561,
+          59.913172
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Stortinget",
+        "address": "Karl Johans gate 22",
+        "openingHours": ["Guided tours"],
+        "description": "The Storting building is the seat of the Norwegian National Assembly.",
+        "image":
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Stortinget%2C_Oslo%2C_Norway_%28cropped%29.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7827073,
+          59.9664281
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Teknisk Museum",
+        "address": "Kjelsåsveien 143",
+        "openingHours": [
+          "Closed",
+          "09:00-16:00",
+          "09:00-16:00",
+          "09:00-21:00",
+          "09:00-16:00",
+          "10:00-17:00",
+          "10:00-17:00"
+        ],
+        "description": "A perfect museum for an afternoon activity for both the kids and the ones interested in technology and industry.",
+        "image":
+        "https://www.tekniskmuseum.no/templates/yootheme/cache/2022-04-06_101653_1360x907-9f6a2fb9.jpeg"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7340832,
+          59.9132145
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "The Viking Planet",
+        "address": "Fridtjof Nansens Plass 4",
+        "openingHours": [
+          "10:00-17:00",
+          "10:00-17:00",
+          "10:00-17:00",
+          "10:00-17:00",
+          "10:00-17:00",
+          "10:00-18:00",
+          "10:00-18:00"
+        ],
+        "description": "Digital Viking Museum",
+        "image":
+        "https://images.dn.no/image/d0JaNzNCY0wrWG05YUpnbnRhUjZPUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/ef4360ee8add3e52047dc3d38ddd4fd6?image_version=1080"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7215634,
+          59.9067908
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "Astrup Fearnley",
+        "address": "Strandpromenaden 2",
+        "openingHours": [
+          "Closed",
+          "12:00-17:00",
+          "12:00-17:00",
+          "12:00-19:00",
+          "12:00-17:00",
+          "11:00-17:00",
+          "11:00-17:00"
+        ],
+        "description": "Fantastic contemporary art museum which offers both interesting art pieces and architecture.",
+        "image":
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7b/64/fb/astrup-fearnley-museet.jpg?w=1200&h=-1&s=1"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7554188,
+          59.9061655
+        ]
+      },
+      "properties": {
+        "category": "culture",
+        "name": "MUNCH",
+        "address": "Edvard Munchs Plass 1",
+        "openingHours": [
+          "10:00-18:00",
+          "10:00-18:00",
+          "10:00-21:00",
+          "10:00-21:00",
+          "10:00-21:00",
+          "10:00-21:00",
+          "10:00-21:00"
+        ],
+        "description": "The newly opened Munch museum will give you a trip through the works of our beloved painter Edvard Munch. We also recommend going to the top for an amazing view of the city and fjords.",
+        "image":
+        "https://www.munchmuseet.no/globalassets/foto-munch/munch-13.jpg"
+
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7012094,
+          59.9269063
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "Vigelandsparken",
+        "address": "Nobels gate 32",
+        "openingHours": [
+          "24/7"
+        ],
+        "description": "A fantastic and special park with around 200 human sculptures that will give you a surreal experience.",
+        "image":
+        "https://www.aktivioslo.no/wp-content/uploads/2011/08/shutterstock_543816478-768x512.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6554781,
+          59.972393
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "Kragstøtten",
+        "address": "Voksenkollveien",
+        "openingHours": [
+          "24/7"
+        ],
+        "description": "This is the place for the beautiful sunsets. From here you can see the whole city span.",
+        "image":
+        "https://i.pinimg.com/originals/92/ae/81/92ae81fc21d4870917331313d0f64ff8.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8036539,
+          59.9589376
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "Grefsenkollen",
+        "address": "Grefsenkollveien 23",
+        "openingHours": [
+          "24/7"
+        ],
+        "description": "A perfect view after a hike up to the hills of Grefsen. There is also a nice restaurant up here!",
+        "image":
+        "https://www.aftenposten.no/images/115aba77-3e35-4ad5-b6ec-6db4ec060e8b?fit=crop&h=1152&q=80&w=2048"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7189958,
+          59.9438757
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "IFI Hvileplass",
+        "address": "Gaustadalléen 23B",
+        "openingHours": [
+          "24/7"
+        ],
+        "description": "The illest of the chillest chill places in Oslo.",
+        "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Informatic_Department_UiO_%28Ole-Johan_Dahls_hus%29.JPG/800px-Informatic_Department_UiO_%28Ole-Johan_Dahls_hus%29.JPG"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7682642,
+          59.897258
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "Ekebergparken",
+        "address": "Kongsveien 23",
+        "openingHours": [
+          "24/7"
+        ],
+        "description": "The park combines history, beautiful nature, amazing views and spectacular sculptures. A truly interesting place to visit.",
+        "image":
+        "https://ekebergparken.com/files/styles/fronpage_slider/public/elmgreendragset-dilemma_foto_uli_holz_2020.jpg?itok=Ft9ScUhK"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7705887,
+          59.9181436
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "Botanisk Hage",
+        "address": "Kongsveien 23",
+        "openingHours": [
+          "07:00-21:00"
+        ],
+        "description": "Norway's oldest botanical garden that offers a range of different plants from around the world. This is a place perfect for relaxing in the summertime.",
+        "image":
+        "http://gresknorsk.no/wp-content/uploads/2014/04/3.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7277246,
+          59.917063
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "Slottsparken",
+        "address": "Slottsplassen 1",
+        "openingHours": [
+          "24/7"
+        ],
+        "description": "Take a trip around the oasis behind the castle. Here you can ease out and look at the ducks in the ponds or spectate the shift of the King’s guard.",
+        "image":
+        "https://www.aktivioslo.no/wp-content/uploads/2011/08/shutterstock_1309305814-900x600.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409314,
+          59.9271774
+        ]
+      },
+      "properties": {
+        "category": "nature",
+        "name": "St. Hanshaugen Park",
+        "address": "Geitmyrsveien 3",
+        "openingHours": [
+          "24/7"
+        ],
+        "description": "Cozy park with sales of food and drink in the summer.",
+        "image":
+        "https://cf.bstatic.com/xdata/images/landmark/1680x560/192675.jpg?k=5ff21b451a0a83d0d74f090ef46d6a90a530f3f72e51c1089bbe175ef3c383f6&o="
+
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.736746,
+          59.9148833
+        ]
+      },
+      "properties": {
+        "category": "nightlife",
+        "name": "Lawo",
+        "address": "Universitetsgata 26",
+        "openingHours": [
+          "Closed",
+          "Closed",
+          "Closed",
+          "22:00-03:00",
+          "22:00-03:00",
+          "22:00-03:00",
+          "Closed"
+        ],
+        "description": "Lawo is both an indoors club for partying and an outdoors terrace for taking a drink the middle of the city by the National Theater.",
+        "image":
+        "https://www.aktivioslo.no/wp-content/uploads/2019/06/lawo6.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7482785,
+          59.9141228
+        ]
+      },
+      "properties": {
+        "category": "nightlife",
+        "name": "Cafe Sør",
+        "address": "Torggata 11",
+        "openingHours": [
+          "12:00-01:00",
+          "12:00-01:30",
+          "12:00-01:00",
+          "12:00-01:30",
+          "12:00-03:30",
+          "12:00-03:30",
+          "12:00-01:00"
+        ],
+        "description": "Informal café with dim lighting, salads and soups as well as an evening bar with berry cocktails and DJ music.",
+        "image":
+        "https://frekvensapp.com/images/venues/cafe-sor/cafe-sor-a-large.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7664439,
+          59.9116353
+        ]
+      },
+      "properties": {
+        "category": "nightlife",
+        "name": "Grønland Boule Bar",
+        "address": "Grønlandsleiret 27",
+        "openingHours": [
+          "15:00-23:00",
+          "15:00-23:30",
+          "15:00-23:00",
+          "15:00-23:30",
+          "15:00-00:30",
+          "15:00-00:30",
+          "15:00-23:00"
+        ],
+        "description": "A fun bar for playing boule or enjoying good food and drinks.",
+        "image":
+        "https://thongruppen.prod.dekodes.no/content/uploads/sites/19/2022/04/DSC1668-1619x1080.jpg"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7196872,
+          59.9260399
+        ]
+      },
+      "properties": {
+        "category": "nightlife",
+        "name": "Underground",
+        "address": "Industrigata 36",
+        "openingHours": [
+          "15:00-00:00",
+          "15:00-00:00",
+          "15:00-00:00",
+          "15:00-00:00",
+          "15:00-02:00",
+          "11:00-02:00",
+          "11:00-00:00"
+        ],
+        "description": "Bar located in the middle of the city which also has an indoors minigolf course.",
+        "image":
+        "https://tellusdmsmedia.newmindmedia.com/wsimgs/Underground_1_c_Hvass_Photography_785446782.jpg[ProductImage]"
+
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7408515,
+          59.9154066
+        ]
+      },
+      "properties": {
+        "category": "nightlife",
+        "name": "London Pub",
+        "address": "C. J. Hambros plass 5",
+        "openingHours": [
+          "15:00-03:30",
+          "15:00-03:30",
+          "15:00-03:30",
+          "15:00-03:30",
+          "15:00-03:30",
+          "15:00-03:30",
+          "15:00-03:30"
+        ],
+        "description": "Norways oldest gay bar! This place is for everyone regardless of gender, wether you are gay, or what your house color is!",
+        "image":
+        "https://irs3.4sqi.net/img/general/width960/17130519_w8INaQen9p73ZpbGRHJRMrMqwxVmfmuq7kWZ4cTt-cY.jpg"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7331916,
+          59.9180673
+        ]
+      },
+      "properties": {
+        "category": "nightlife",
+        "name": "Summit Bar",
+        "address": "Holbergs gate 30",
+        "openingHours": [
+          "Closed",
+          "Closed",
+          "Closed",
+          "16:00-00:00",
+          "16:00-01:00",
+          "16:00-01:00",
+          "Closed"
+        ],
+        "description": "Rooftop bar with an amazing view of the city!",
+        "image":
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d5/5b/4c/photo-herman-dreyer.jpg?w=1200&h=-1&s=1"
+
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7515146,
+          59.9140978
+        ]
+      },
+      "properties": {
+        "category": "nightlife",
+        "name": "Himkok",
+        "address": "Storgata 27",
+        "openingHours": [
+          "17:00-03:00",
+          "17:00-03:00",
+          "17:00-03:00",
+          "17:00-03:00",
+          "17:00-03:00",
+          "17:00-03:00",
+          "Closed"
+        ],
+        "description": "Enjoy good drinks and self-brewed alcohol in a slightly secluded bar. You wont get a more authentic drinking experience anywhere else in Norway!",
+        "image":
+        "https://www.aftenposten.no/images/13720290-c2e9-473c-a6e7-75f257b73f82?fit=crop&h=1152&q=80&w=2048"
+
+      }
+    }
+
+
+
+  ]
+}
